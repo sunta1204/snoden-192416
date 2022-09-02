@@ -1,0 +1,16 @@
+{
+  "name": "snoden-192416",
+  "theme": "syntax",
+  "version": "0.2.0",
+  "description": "สล็อต ฝาก 50 รับ 100 เว็บตรง ใหญ่ รองรับ วอเลท",
+  "keywords": [
+    "สล็อต ฝาก 50 รับ 100",
+    "สล็อต โปร ฝาก 50 รับ 100 ถอนไม่อั้น" ,
+    "สล็อต ฝาก 50 รับ 100 ถอนไม่อั้นpg"
+  ],
+  "repository": "https://github.com/snoden888/snoden-192416",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
